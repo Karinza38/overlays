@@ -57,16 +57,22 @@ var respecConfig = {
 	//],
 	
 		{
-		      name: "Lionel Wolberger",
+		    name: "Lionel Wolberger",
 			          company: "Userway",
 				        companyURL: "https://userway.org/",
 					      mailto: "lionel@userway.org",
 					            w3cid: 106386
-							        },
-	                {
-				                        name: "Janina Sajka",
-				                        url: "http://rednote.net/",
-				                        w3cid: 33688
+		},
+	    {
+			name: "Janina Sajka",
+			url: "http://rednote.net/",
+			w3cid: 33688
+				                },
+		{
+			name: "Jason Taylor",
+			company: "UsableNet",
+			companyURL: "http://usablenet.com/",
+			w3cid: 151178
 				                }
 	],
 	
